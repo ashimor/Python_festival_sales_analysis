@@ -9,9 +9,9 @@ Python project - Analyze sales data to improve customer experience and sales in 
 
 
 # Major findings:
- •	Most buyers are females, with females exhibiting greater purchasing power than males.
- •	The majority of buyers fall within the age group of 26-35 years, particularly females.
- •	Top states contributing to orders and total sales are Uttar Pradesh, Maharashtra, and Karnataka.
- •	Food, Clothing, and Electronics are the top-selling product categories.
- •	Specific products, identified by Product_ID, contribute significantly to overall orders.
+*	Most buyers are females, with females exhibiting greater purchasing power than males.
+*	The majority of buyers fall within the age group of 26-35 years, particularly females.
+*	Top states contributing to orders and total sales are Uttar Pradesh, Maharashtra, and Karnataka.
+*	Food, Clothing, and Electronics are the top-selling product categories.
+*	Specific products, identified by Product_ID, contribute significantly to overall orders.
 
